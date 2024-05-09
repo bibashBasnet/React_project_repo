@@ -16,7 +16,7 @@ function Nav_bar() {
             </ul>
         </div>
         <div className="cart">
-          
+          <img src="cart.jpg" alt="Loading"></img>
         </div>
       </div>
     );
