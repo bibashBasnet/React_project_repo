@@ -1,3 +1,5 @@
+import "./home_text.css"
+
 function Home_text() {
   return (
     <div className="body">

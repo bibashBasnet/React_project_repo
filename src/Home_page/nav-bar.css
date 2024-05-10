@@ -1,0 +1,40 @@
+.nav_bar{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    background-color: #f3f3f3;
+  }
+  
+  .nav_content{
+    width: 60%;
+    align-items: center;
+  }
+  
+  
+  .cart{
+    width: 20%;
+  }
+  
+  
+  .nav_content ul{
+    font-weight: 600;
+    cursor: pointer;
+    position: relative;
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  .logo{
+    font-size: large;
+    display: flex;
+    list-style: none;
+    font-weight: 600;
+    cursor: pointer;
+    position: relative;
+    width: 20%;
+  }
+  
+  
+  
