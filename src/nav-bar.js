@@ -2,10 +2,7 @@ function Nav_bar() {
     return (
       <div className="nav_bar">
         <div className="logo">
-            <ul>
-              <li><img src="" alt="" className=""></img></li>
-              <li>Ecommerce</li>
-            </ul>
+            Ecommerce
         </div>
         <div className="nav_content">
           <ul>
@@ -16,7 +13,7 @@ function Nav_bar() {
             </ul>
         </div>
         <div className="cart">
-          <img src="cart.jpg" alt="Loading"></img>
+          <img src="cart.jpg" alt="Loading" align="right"></img>
         </div>
       </div>
     );
