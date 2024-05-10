@@ -1,11 +1,9 @@
-import Nav_bar from "./nav-bar";
-import Front_page from "./front_page";
+import Home from "./Home_page/home";
 
 function App() {
   return (
     <div className="App">
-      <Nav_bar/>
-      <Front_page/>
+      <Home/>
     </div>
   );
 }

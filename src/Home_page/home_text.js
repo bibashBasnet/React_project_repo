@@ -1,4 +1,4 @@
-function Front_page() {
+function Home_text() {
   return (
     <div className="body">
      <div className="body_text">
@@ -21,4 +21,4 @@ function Front_page() {
   )
 }
 
-export default Front_page;
+export default Home_text;
