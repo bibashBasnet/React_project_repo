@@ -8,10 +8,10 @@ function Nav_bar() {
         </div>
         <div className="nav_content">
           <ul>
-              <li>Home</li>
-              <li>Men</li>
-              <li>Women</li>
-              <li>Explore All</li>
+              <li id="nav_item">Home</li>
+              <li id="nav_item">Men</li>
+              <li id="nav_item">Women</li>
+              <li id="nav_item">Explore All</li>
             </ul>
         </div>
         <div className="cart">

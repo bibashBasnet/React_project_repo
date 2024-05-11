@@ -9,7 +9,10 @@
     width: 60%;
     align-items: center;
   }
-  
+
+  #nav_item:hover{
+    text-decoration: underline;
+  }
   
   .cart{
     width: 20%;

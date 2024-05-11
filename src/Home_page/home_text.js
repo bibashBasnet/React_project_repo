@@ -6,7 +6,7 @@ function Home_text() {
      <div className="body_text">
         <h1>Experience the height of fashon with our Exquisit Designer Pieces.</h1>
         <p>where style, sophistication, exclusivity is the forefront of our collection. Lorem ispsum dolor sit amet consectetur adipisicing elit. Repellant quaerat nostrum quia nam earum, libero, expedita, impedit delectus provident quo eveniet.</p>
-        <button>Discover Our Products</button>
+        <button id="home_button">Discover Our Products</button>
       </div>
         <div className="photoshoot-container">
           <span className="model-photo_wrapper boy">

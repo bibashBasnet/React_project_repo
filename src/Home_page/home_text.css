@@ -19,7 +19,9 @@
     height: 100%;
   }
   
-  
+  #home_button{
+    cursor: pointer;
+  }
   
   .photoshoot-container {
     display: grid;
